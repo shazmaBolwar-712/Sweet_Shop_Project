@@ -118,8 +118,6 @@ Purchase and restock actions
 
 PASS tests/auth.test.js ✓ should register user ✓ should login as admin ✓ should reject invalid password PASS tests/sweet.test.js ✓ should add sweet ✓ should update quantity after purchase ✓ should delete sweet (admin only)
 
-**Screenshots**
-
 **My AI Usage**
 
 In this section, I describe how AI tools assisted me throughout the development process.
