@@ -118,6 +118,29 @@ Purchase and restock actions
 
 PASS tests/auth.test.js ✓ should register user ✓ should login as admin ✓ should reject invalid password PASS tests/sweet.test.js ✓ should add sweet ✓ should update quantity after purchase ✓ should delete sweet (admin only)
 
+**Screenshots**
+--Login
+<img width="571" height="905" alt="login" src="https://github.com/user-attachments/assets/b7e005b4-73d7-4ce8-b5d0-352442e2c334" />
+
+--Register page
+--User
+<img width="566" height="896" alt="register" src="https://github.com/user-attachments/assets/c3b0714e-8409-4fad-b50d-0c61518f8abe" />
+
+-->Admin
+![admin_regsiter](https://github.com/user-attachments/assets/3f2dc4db-f9b5-4fdc-89b3-7e6a6139a0a0)
+
+-->user dashboard
+![dashboard](https://github.com/user-attachments/assets/f6257ee4-efff-4954-9369-d19507de4826)
+
+-->admin dashboard
+![admin](https://github.com/user-attachments/assets/8ad391f4-efc3-493d-8511-fe851fbbe7f8)
+
+-->Role database
+![role_db](https://github.com/user-attachments/assets/a86fde68-8609-4936-8363-0b33778835d0)
+
+-->Sweet Database
+![sweet_db](https://github.com/user-attachments/assets/e01c80d1-4b91-48ca-bd47-a12e0f3d9400)
+
 **My AI Usage**
 
 In this section, I describe how AI tools assisted me throughout the development process.
